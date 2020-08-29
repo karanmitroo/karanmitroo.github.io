@@ -1,23 +1,39 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>My New Hugo Site</title>
+   <title>The Lazy Blog</title>
    <link>https://karanmitroo.github.io/</link>
-   <description>Recent content on My New Hugo Site</description>
+   <description>Recent content on The Lazy Blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Sun, 16 Aug 2020 15:12:20 +0530</lastBuildDate>
+   <lastBuildDate>Sat, 29 Aug 2020 17:52:26 +0530</lastBuildDate>
    
        <atom:link href="https://karanmitroo.github.io/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
-       <title>My First Blog</title>
-       <link>https://karanmitroo.github.io/posts/my-first-blog/</link>
-       <pubDate>Sun, 16 Aug 2020 15:12:20 +0530</pubDate>
+       <title>__init__</title>
+       <link>https://karanmitroo.github.io/posts/__init__/</link>
+       <pubDate>Sat, 29 Aug 2020 17:52:26 +0530</pubDate>
        
-       <guid>https://karanmitroo.github.io/posts/my-first-blog/</guid>
-       <description></description>
+       <guid>https://karanmitroo.github.io/posts/__init__/</guid>
+       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;After procasting for more than an year now, I have finally setup my blog. This time I chose to use github pages for hosting the content as compared to deploying my own wordpress server which I did alomst 2 years back. This static site is built using &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;Hugo&lt;/a&gt;. I recently came to know about Hugo and since it has been written in Go I started exploring it. But spending time exploring it was yet another excuse of not setting up the blog. So I have planned to explore it side by side as I setup the blog and push some content. The good thing about hugo is that I will be writing all my posts in Markdown. Which gives me the freedom to switch to any other framework if required.&lt;/p&gt;
+&lt;h2 id=&#34;why-am-i-writing-a-blog&#34;&gt;Why am I writing a blog?&lt;/h2&gt;
+&lt;p&gt;As I mentioned before, this is the second time I have started to write a blog. The major reason to write a blog is to make myself read more. This sounds weird right?! Let me explain.&lt;/p&gt;
+&lt;p&gt;When I used to write my first blog back in 2018, I made some really good observations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Firstly, to write something I would have to read someting. So this puts me in a habit of exploring/ reading new content.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;And because this blog is going to be present on the Internet I will have to put some efforts in understanding what I am going to write about.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thus all in all it helps me keep myself up to date in this fast moving world of Tech.&lt;/p&gt;
+&lt;h2 id=&#34;what-will-i-be-writing-about&#34;&gt;What will I be writing about?&lt;/h2&gt;
+&lt;p&gt;I am glad you asked! Majorly, the posts are going to be about Tech. Reliability and Development are the two things I will be focussing on initially. As that is what I am into at the moment. But at the same time I would also post some random blogs here and there around anything interesting that I come across.&lt;/p&gt;
+</description>
      </item>
    
  </channel>
